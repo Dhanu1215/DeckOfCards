@@ -10,6 +10,7 @@ public class DeckOfCards {
         initializeCards();
         Player person = new Player();
         person.numOfPlayer();
+        person.sequence();
     }
 
     /**
